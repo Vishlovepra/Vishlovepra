@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Vishlovepra
+- 👋 Hi, I’m @Vishpra
 - 👀 I’m interested in creating websites and apps
 - 🌱 I’m currently learning JavaScript , html,css
 - 💞️ I’m looking to collaborate on ...
